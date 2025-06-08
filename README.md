@@ -1,16 +1,36 @@
-# faxfy
+# 📠 Flutter Fax Management System
 
-System management
+A cross-platform **Flutter application** for managing faxes efficiently. Built to connect with a **local API backend**, this app allows users to send, receive, and organize faxes in a simple, user-friendly interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📤 Send and receive faxes
+- 🗂️ Manage and organize fax records
+- 🔍 Search and filter faxes by status or keywords
+- 📄 PDF preview and sharing
+- 📡 Connects to a local REST API
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (Stable Channel)
+- **Dart**
+- **REST API**
+- **HTTP Package** for API calls
+- **Bloc** for state management
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Local API server running
+- Android Studio 
+
+
+
